@@ -4,3 +4,4 @@ transformers
 datasets
 beautifulsoup4
 requests
+torch
