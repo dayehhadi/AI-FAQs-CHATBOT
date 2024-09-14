@@ -1,3 +1,5 @@
+# backend/model/fine_tune.py
+
 from transformers import GPT2Tokenizer, GPT2LMHeadModel, Trainer, TrainingArguments
 from datasets import load_dataset
 
@@ -42,8 +44,9 @@ def main():
     # Start training
     trainer.train()
 
-    # Save the final model
+    # Save the final model and tokenizer
     trainer.save_model('./model/fine_tuned_gpt2')
+    tokenizer.save_pretrained('./model/fine_tuned_gpt2')
 
 if __name__ == "__main__":
     main()
