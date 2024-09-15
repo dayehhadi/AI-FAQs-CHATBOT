@@ -230,5 +230,585 @@
     {
         "question": "Graduate FAQ",
         "answer": "Please refer to theFAQ for Masters or PhDapplicants."
+    },
+    {
+        "question": "Are there any scholarships or financial aid offered to students and what are the basis?",
+        "answer": "​Different financial aid packages and scholarships are available at AUB.​You may review the information and contact theOffice of Financial Aidfor details regarding your financial aid/scholarship questions."
+    },
+    {
+        "question": "Is 'distance learning' or 'studies by correspondence' available at AUB?",
+        "answer": "​Unless stated otherwise for a specific diploma/course (ex: Pro-Green\nDiploma), in general, regular attendance in classes, lectures, labs, and\nseminars is mandatory to qualify for graduation with a degree from\nAUB.​"
+    },
+    {
+        "question": "We would like to visit the AUB campus and the Office of Admissions.  What are the Office of Admissions operating hours and do we need to take an appointment?",
+        "answer": "You are welcome to visit the AUB campus and make a tour of it. You can arrange/schedule a tour with theVisitors' Bureau. While, at any time, you may check thevirtual campus tour.​However, no appointment is required to visit the Office of Admissions; you are welcome anytime during the office hours that can be reviewed along with campus location information at our 'contact us' page.​"
+    },
+    {
+        "question": "What are the fees incurred for ´X-major´ at AUB and what are other fees?",
+        "answer": "​Please refer to theuniversity catalogueto know the number of credits require by a specific major.  You may also check theTuition calculatoror thetuition per credit costs​.​"
+    },
+    {
+        "question": "What is the language of instruction at AUB?",
+        "answer": "​All courses are taught in the English language except Arabic courses."
+    },
+    {
+        "question": "What kind of accommodation facilities are there on campus?",
+        "answer": "​There are six residence halls on campus (four for women and two for men)\nin addition to one off campus (for women). For more information, please\ncontactAUB Student Housing​."
+    },
+    {
+        "question": "I am accepted and paid my confirmation fee, why can't I login to AUBsis to apply for residence in student dorms?",
+        "answer": "For the purpose of applying for residence in the students dorms, you can access AUBsis with your default AUBsis Pin which is your birthdate in the format MMDDYY (ex: for 5 Dec 2001, default pin is 120501) after payment of the confirmation fee​.If you are unable to login with the default pin then please email us (admissions@aub.edu.lb) to reset it for you.  Upon reset, you would be able to login to AUBsis using the default pin.​"
+    },
+    {
+        "question": "I am accepted; what are the next steps that I should do?",
+        "answer": "In general, all the registration steps will be communicated to you by email in due time.​If you are interested in applying to the AUB dorms, then you should check with theAUB Student Housingon the relevant deadlines as soon as you receive your acceptance email, as dorms deadlines are usually early.   Please also note that you may apply to AUB Student Housing (dorms) upon payment of the confirmation fee.​​Students who confirm and pay the fee (details per your acceptance email), will receive​ (about 1 month before the start of classes) a welcome email that will contain additional information regarding new student orientation, course registration, academic advising among other important information.​You should plan to arrive to AUB for the new student orientation, which is usually one week before the start of classes."
+    },
+    {
+        "question": "How can I send my exam (ex: SAT, IELTS, TOEFL etc.) scores to AUB?",
+        "answer": "Your scores needs to be sent officially to AUB (ETS Code 0902) directly from the organization administering the test; you should also send your unofficial scores showing your full name (ex: as printed/downloaded from the website of the organization administering the test) by email to AUB.​For SAT Scores, please refer to the\"How to send your SAT Scores​​\" instructions​for details on how to properly send your SAT Scores."
+    },
+    {
+        "question": "Can I postpone my acceptance to a later term?",
+        "answer": "​You may request to postpone your acceptance by one term, by replying to\nyour acceptance email and requesting it.  We will review your request\nand provide you feedback or confirmation regarding your postponement request."
+    },
+    {
+        "question": "Why have I not received my acceptance email yet?",
+        "answer": "Accepted students will receive their acceptance by email.  If you have not received your acceptance by email then please check that the acceptance email didn't get routed to your junk email folder.  ​If you cannot find it, then please email your AUB application ID number and your correct email address toadmissions@aub.edu.lb(undergraduate acceptances) orgrad-admissions@aub.edu.lb(for graduate acceptances) so we can correct your email if necessary and re-send your acceptance email.​It is very important that you submit a correct email address on your application form as important notifications regarding your application will be sent by email only.​"
+    },
+    {
+        "question": "How can I pay the confirmation fee related to my acceptance?",
+        "answer": "Each accepted student w​ill receive an acceptance email which will list (with instructions) the available options (ex: online payment, bank transfer, cash) in paying the confirmation fee."
+    },
+    {
+        "question": "Why are students not notified about the possibility to petition to add or change majors on the application form?",
+        "answer": "​AUB does not email students about this petition process because\nthis may not apply to every applicant. However, accepted undergraduate students\nhave up to one month before their enrollment confirmation deadline to petition\nfor reconsideration to other majors."
+    },
+    {
+        "question": "Can I do IELTS to meet the English language requirement?",
+        "answer": "IELTS can be considered to satisfy the AUBEnglish language requirement​, which includes minimum IELTS scores along with additional requirements."
+    },
+    {
+        "question": "Will students be notified of their acceptance or rejection?",
+        "answer": "Undergraduate applicants are only notified of their acceptance and hence rejection letters are not sent to applicants.  ​Graduate applicants will be notified of their acceptance or rejection.  Notifications are sent by email."
+    },
+    {
+        "question": "MEHE Equivalency Requirements and Processes المعادلات من وزارة التربية و التعليم العالي",
+        "answer": "For more information on how to authenticate diplomas and degrees at AUB, please clickhere​.​"
+    },
+    {
+        "question": "Can I transfer to freshman or sophomore class directly after completing the UPP program?",
+        "answer": "​After successfully passing the UPP program, a student may join directly\nthe AUB freshman class. However, for joining sophomore, the student needs to submit\nto the Office of Admissions an undergraduate application with all the required\ndocuments including SAT scores by the set deadlines."
+    },
+    {
+        "question": "I have completed Grade 11, can I apply to AUB UPP Program?",
+        "answer": "​Applicants should have completed at least twelve years of schooling, or\nequivalent, before joining any program at AUB including UPP.  Applicants\nto the UPP program must submit the UPP application form and the high school\ntranscripts along with a high school recommendation letter."
+    },
+    {
+        "question": "Are there any special requirements for Lebanese or non-Lebanese applicants to the freshman class?",
+        "answer": "​A Lebanese or non-Lebanese applicant to the freshman class needs\nto obtain a statement (permission) from theEquivalence Committee​(English,Arabic) of the\nLebanese Ministry of Education and Higher Education (MEHE) allowing her/him to join the freshman class.  Moreover, students need to obtain the equivalence of their freshman year at AUB to the Lebanese Baccalaureate ​Part II,​ as required by MEHE.  For details\nplease refer to the Ministry (English,Arabic) and theAUB Catalog​​. ​"
+    },
+    {
+        "question": "What are the requirements for admission to the freshman class?",
+        "answer": "​To apply to the freshman class, AUB requires the school grades for the 10th and 11th Grades plus the SAT  scores.  Both SAT  scores and school grades are equally weighted when evaluating applications for admission. For details, please refer to theadmission requirements​.​​"
+    },
+    {
+        "question": "What certificates qualify for consideration to the freshman class?",
+        "answer": "​Students completing 12 years of schooling and\ndoing one of the following programs: High School Program, AP\nprogram, IGCSE (O Levels), IB Certificate or any other school leaving\ncertificate (other than Lebanese Baccalaureate) can apply to the freshman\nprogram at AUB.   Freshman credits equivalences may be given towards\nthe advanced level courses such as AP."
+    },
+    {
+        "question": "What is the minimum SAT score required for admission?",
+        "answer": "For early admission, which is criteria based admission, the minimum required SAT score are indicated in theadmission requirements. ​However, for regular admission, there is no required SAT score as regular admission is competition-based and thus depends on the scores of students applying for a given term and on the availability of places."
+    },
+    {
+        "question": "What tests should I take to be considered for admission to the Freshman Class?",
+        "answer": "The Scholastic Assessment Test (SAT) is required for admission decision and it cannot be substituted by any other test.  You can review details about SAT on theCollege Boardwebsite.​Please note that the registration deadlines for SAT are usually set about a month ahead of the actual exam date. Please also note that when applying for a given term at AUB, you have to meet the \"Last SAT session date\" considered for that term (thus SAT exams done after that Last SAT Session date will not be considered)."
+    },
+    {
+        "question": "Did AUB Office of Admissions receive my official SAT Scores?",
+        "answer": "Please refer to 'How to send SAT Scores​' instructions for details on how to properly send your SAT Scores.​Regarding the official scores, as long as you successfully ordered your SAT official scores from College Board to be sent to AUB (ETS Code 0902), then they will arrive and be processed by us.​​​"
+    },
+    {
+        "question": "What other tests than SAT should I take for admission to AUB? Should I take any English test?​",
+        "answer": "​Meeting the English language requirement is a condition to register at AUB if you were accepted.  You can meet theEnglish language requirementby achieving certain minimum scores on your SAT and/or on alternatives English only (ex: TOEFL, IELTS, AUB-EN​ etc.) exams. You might also need to takeAUB’s Writing Placement Test​for placement into English courses.​"
+    },
+    {
+        "question": "Can I transfer to Freshman class directly after completing the UPP Program?",
+        "answer": "​After successfully passing the UPP program, a student may join directly the AUB Freshman class without the need to take SAT exam.​"
+    },
+    {
+        "question": "Can I apply to AUB with Common App?",
+        "answer": "​Yes, AUB is a member ofCommon App​. ​"
+    },
+    {
+        "question": "Are there any special requirements for Lebanese or non-Lebanese applicants to the sophomore class?",
+        "answer": "Lebanese or non-Lebanese applicants to the sophomore class need to\nprovide evidence of having successfully passed the Lebanese Baccalaureate Part\nII or its equivalent. Applicants holding foreign certificates should\nobtain the equivalence of the Lebanese Baccalaureate Part II from theEquivalence Committee​(English,Arabic) of the Lebanese Ministry of Education and Higher Education (MEHE) ​prior to registration at AUB."
+    },
+    {
+        "question": "What are the requirements for admission to the sophomore class?",
+        "answer": "​To apply to the Sophomore class, AUB requires the school grades for the 10th and 11th Grades plus the SAT scores.  Both SAT scores and school grades are equally weighted when evaluating applications for admission.​ For details please refer to theadmission requirements​."
+    },
+    {
+        "question": "What certificates qualify for consideration to the sophomore class?",
+        "answer": "Students completing 12 years of schooling and accomplishing one of the following programs: Lebanese Baccalaureate, French Baccalaureate, Syrian Baccalaureate, Jordanian Tawjihi, German Abitur, Official Government Secondary School leaving Certificate, full IB Diploma or IGCSE/GCE(3 A levels or 6 AS levels in addition to 6 O levels excluding Arabic)​, completion of the freshman class at a recognized institution of higher education, can apply directly to the sophomore level at AUB."
+    },
+    {
+        "question": "What is the minimum SAT score required for admission?",
+        "answer": "For early admission, which is criteria based admission, the minimum required SAT score are indicated in theadmission requirements. ​However, for regular admission, there is no required SAT score as regular admission is competition based and thus depends on the scores of students applying for a given term and on availability of places."
+    },
+    {
+        "question": "What majors are offered at AUB",
+        "answer": "The list of majors that you can apply to is included in the admission application.​For detailed information on the majors and programs currently offered at AUB,  please refer to theAUB Majors and Programs​page. ​"
+    },
+    {
+        "question": "What other tests than SAT should I take for admission to AUB? Should I take any English test?",
+        "answer": "​Meeting the English language requirement is a condition to register at AUB if you are accepted.  You can meet theEnglish language requirementby achieving certain minimum scores on your SAT and/or on English alternatives​ only (ex: TOEFL, IELTS, AUB-EN​ etc.) exams. You might also need to takeAUB’s Writing Placement Test​for placement into English courses."
+    },
+    {
+        "question": "What tests should I take to be considered for admission to the sophomore class?",
+        "answer": "The Scholastic Assessment Test (SAT) is required for admission decision and it cannot be substituted by any other test.  You can review details about SAT on theCollege Boardwebsite.​Please note that the registration deadlines for SAT are usually set about a month ahead of the actual exam date. Please also note that when applying for a given term at AUB, you have to meet the \"Last SAT session date\" considered for that term (thus SAT exams done after that Last SAT Session date will not be considered)."
+    },
+    {
+        "question": "Did you receive my official SAT Scores?",
+        "answer": "Please refer to 'How to send SAT Scores​' instructions for details on how to properly send your SAT Scores.​Regarding the official scores, as long as you ordered successfully your SAT official scores from College Board to be sent to AUB (ETS Code 0902), then they will arrive and be processed by us.​​"
+    },
+    {
+        "question": "I was not accepted into the major that I plan to pursue at AUB, so can I petition for reconsideration?",
+        "answer": "In general, you can petition (usually latest by 1 month before the confirmation deadline) to add a major which was not considered or reviewed by our admission committee.​For majors that were already reviewed then a petition will not be accepted unless there is a change in the student application file (ex: addition of missing grades, SAT scores, legacy information [parent or grandparents are AUB Alumni] ) that would affect the application decision.​Petitions should be sent in an email, by replying to your acceptance email or application update email, and students will be notified of the petition outcome by email as well.​"
+    },
+    {
+        "question": "Can I transfer to sophomore class directly after completing the UPP Program?",
+        "answer": "After successfully passing the UPP program, a student cannot directly join the AUB sophomore class. The student needs to submit to the Office of Admissions an undergraduate application with all the required documents including SAT scores by the application deadline."
+    },
+    {
+        "question": "Can an applicant transfer at the freshman or sophomore level from another university to AUB?",
+        "answer": "Students who have completed less than 30 freshman credits may apply to the freshman year at AUB.  Similarly, students who have completed less than 24 sophomore credits may apply to the sophomore year at AUB.  In both cases, SAT and high school grades (G10, G11 and G12) will be considered for admission. Courses taken at the former university, could be given credit upon the recommendation of the department(s) concerned.​"
+    },
+    {
+        "question": "Can any student transfer to AUB?",
+        "answer": "Students enrolled in recognized institutions of higher learning and who have completed a class equivalent to the sophomore class at AUB may be considered for admission to the junior class based on their university GPA.  Such applicants should meet the English language requirement.​"
+    },
+    {
+        "question": "Can courses taken at another university be transferred to AUB?",
+        "answer": "Courses taken at a recognized university could be transferred if they are equivalent to courses offered at AUB under a degree-leading program and upon the recommendation of the department(s) concerned.​Course equivalences are determined after submitting an AUB admission application and are usually issued with the application acceptance decision.​"
+    },
+    {
+        "question": "What are the graduation requirements of a transfer applicant?",
+        "answer": "​Students should complete the college\nrequirements in addition to major and credit requirements as determined by the\ndepartment(s) concerned and by the Office of the Registrar."
+    },
+    {
+        "question": "What is the minimum average required for transfer admission to AUB?",
+        "answer": "​In general, the minimum GPA scores required vary\namong majors and admission is based on competition and availability of spaces."
+    },
+    {
+        "question": "Can I apply as a transfer student to another major when I already have a bachelor degree?",
+        "answer": "​If you already have a bachelor degree, then you will\nneed to apply as second degree applicant.  Some of the credits taken in\nthe bachelor degree will be transferred to your second degree per department\napproval."
+    },
+    {
+        "question": "I am an AUB graduate and want to apply to AUB for a second degree, do I submit an application to the Office of Admissions like other second degree applicants?",
+        "answer": "​AUB graduates who've been away from AUB for less than\n2 years after graduation, must contact the Office of the Registrar on:registrar@aub.edu.lband inquire about\ntheir application for second degree.   For all other applicants, they\nneed to submit their second degree application form at the Office of\nAdmissions."
+    },
+    {
+        "question": "Can a special or a visiting undergraduate student take graduate courses?",
+        "answer": "On case by case review, the student may take graduate courses upon approval of the department concerned.​"
+    },
+    {
+        "question": "Can credits taken be considered towards a degree from AUB?",
+        "answer": "​Credits taken at AUB may be considered toward\nAUB degrees if the student reapplies for admission as a regular student, and is\naccepted based on the admission criteria"
+    },
+    {
+        "question": "What are the minimum requirements for admission?",
+        "answer": "​Students must have a high school diploma, school\nleaving certificate, government secondary school certificate or higher level of\neducation recognized by AUB.  Students must have completed at least one term\nat another university recognized by AUB."
+    },
+    {
+        "question": "What is the number of credits allowed?",
+        "answer": "​Students may normally take up to 17\nundergraduate credits or 9 graduate credits per semester (for a maximum of 2 terms)."
+    },
+    {
+        "question": "What kind of study abroad programs do you offer?",
+        "answer": "Students registered in recognized institutions of higher learning may wish to take courses at AUB without seeking a degree from the university. Those may apply for special not working for a degree or visiting/exchange status.​"
+    },
+    {
+        "question": "How can I take Arabic courses at AUB?",
+        "answer": "To join Arabic courses at AUB, non-degree students can consider the following options:You may apply as anon-degree/visiting/exchangestudentYou might be interested otherwise in short courses which are usually offered by theContinuing Education Center (CEC)​.If you are looking for Arabic summer courses then you might be interested inAUB's Summer Arabic Program​.​​"
+    },
+    {
+        "question": "Will the average of courses taken as special or visiting student be considered for admissions to a regular graduate program at AUB?",
+        "answer": "​In general, that average is not considered\ntowards admissions; however, for borderline cases and on a case by case basis\nthe admission committee might consider this average along with other criteria\nfor admission to regular status."
+    },
+    {
+        "question": "What diplomas are currently offered at AUB?",
+        "answer": "Some of the diplomas that we offer include:​-Teaching Diploma Program​-Diploma in Special Education​-Diploma in Educational Management and Leadership​"
+    },
+    {
+        "question": "I would like to apply for a diploma, do I need to take an English exam?",
+        "answer": "You will need to meet theEnglish language requirements​​."
+    },
+    {
+        "question": "I would like to apply for a teaching diploma, what are the requirements and the concentrations",
+        "answer": "Please refer to our detailedadmission requirementsfor diploma applications.You may refer to thediploma application​for the list of available concentrations of the Teaching Diploma.​"
+    },
+    {
+        "question": "How many years is the MD program?",
+        "answer": "The MD program is a graduate four-year program following a 3-4 years pre-med bachelor's degree, after which the student will be awarded the degree of Doctor of Medicine.​For more details, please refer to theAUB Admissionswebsite or theFaculty of Medicine​website."
+    },
+    {
+        "question": "What are the admission requirements to the MD program at AUB?",
+        "answer": "Students are required to: ​1- Hold a bachelor´s degree (including the pre-medical core courses as listed in the AUB catalogue) ​2- Take the Medical College Admission Test (MCAT) ​3- Meet theEnglish language requirement​​"
+    },
+    {
+        "question": "I am doing my pre-med major at another university, can I apply to AUB MD program?",
+        "answer": "Every year AUB receives a number of applications from Lebanon and overseas from students who did not complete their bachelor studies at AUB.  Thus, you can apply to AUB MD program as long as you have completed all the pre-medical core courses as listed in the AUB catalogue and you meet the other admission requirements.You may contact theschool of medicine​to clarify if the pre-medical courses taken outside AUB are equivalent to AUB courses."
+    },
+    {
+        "question": "Graduate FAQ",
+        "answer": "Please refer to theFAQ for Masters or PhDapplicants."
+    },
+    {
+        "question": "2. Required documents and exam scores submission deadlines",
+        "answer": "​For Fall 2 2024-25 7 week format - Only for Online-MBAOnline graduate applicationOctober 7, 2024Recommendation letters(Please see question # 8 for the submission of recommendation letters)October 7, 2024Official transcript(Please see question # 5 for more information about the transcript requirement)October 11, 2024Official GRE General exam scores(Please see question # 7 for the submission of GRE General Exam official scores)October 11, 2024Official GMAT/GMAT Focus exam scores(Please see question # 7 for the submission of GMAT/GMAT Focus official scores)October 11, 2024Readiness for University Study in English (RUSE)Institution code: 0902 – Undergraduate Organization(Please see question # 6 for the submission of English test scores)October 18, 2024Lebanese Ministry of Education - Equivalence Committee(Required from all Lebanese and non-Lebanese accepted applicants, except those who graduated from AUB or the Lebanese University)October 18, 2024For Spring 2024-25 On-campus Graduate Programs​Online graduate applicationNovember 5, 2024Recommendation letters(Please see question # 8 for the submission of recommendation letters)November 5, 2024Official transcript(Please see question # 5 for more information about the transcript requirement)January 10, 2025Official GRE General exam scores(Please see question # 7 for the submission of GRE General Exam official scores)December 5, 2024Official GMAT/GMAT Focus exam scores(Please see question # 7 for the submission of GMAT/GMAT Focus​ official scores)December 5, 2024Readiness for University Study in English (RUSE)Institution code: 0902 – Undergraduate Organization(Please see question # 6 for the submission of English test scores)January 10, 2025Lebanese Ministry of Education - Equivalence Committee(Required from all Lebanese and non-Lebanese accepted applicants, except those who graduated from AUB or the Lebanese University)Upon AcceptanceFor Spring 2024-25 Online (except online MBA) Graduate Programs​Online graduate applicationJanuary 3, 2025Recommendation letters(Please see question # 8 for the submission of recommendation letters)January 3, 2025Official transcript(Please see question # 5 for more information about the transcript requirement)January 13, 2025Official GRE General exam scores(Please see question # 7 for the submission of GRE General Exam official scores)January 3, 2025Official GMAT/GMAT Focus exam scores(Please see question # 7 for the submission of GMAT/GMAT Focus ​​official scores)January 3, 2025Readiness for University Study in English (RUSE)Institution code: 0902 – Undergraduate Organization(Please see question # 6 for the submission of English test scores)January 13, 2025Lebanese Ministry of Education - Equivalence Committee(Required from all Lebanese and non-Lebanese accepted applicants, except those who graduated from AUB or the Lebanese University)Upon AcceptanceFor Spring 1 2024-25 7 week format - Only for Online-MBA​Online graduate applicationJanuary 2, 2025Recommendation letters(Please see question # 8 for the submission of recommendation letters)January 2, 2025Official transcript(Please see question # 5 for more information about the transcript requirement)January 10, 2025Official GRE General exam scores(Please see question # 7 for the submission of GRE General Exam official scores)January 2, 2025Official GMAT/GMAT Focus exam scores(Please see question # 7 for the submission of GMAT/GMAT Focus official scores)January 2, 2025Readiness for University Study in English (RUSE)Institution code: 0902 – Undergraduate Organization(Please see question # 6 for the submission of English test scores)January 10, 2025Lebanese Ministry of Education - Equivalence Committee(Required from all Lebanese and non-Lebanese accepted applicants, except those who graduated from AUB or the Lebanese University)Upon Acceptance​For Spring 2 2024-25 7 week format - Only for Online-MBAOnline graduate applicationMarch 3, 2025Recommendation letters(Please see question # 8 for the submission of recommendation letters)March 3, 2025Official transcript(Please see question # 5 for more information about the transcript requirement)March 16, 2025Official GRE General exam scores(Please see question # 7 for the submission of GRE General Exam official scores)March 3, 2025Official GMAT/GMAT Focus exam scores(Please see question # 7 for the submission of GMAT/GMAT Focus official scores)March 3, 2025Readiness for University Study in English (RUSE)Institution code: 0902 – Undergraduate Organization(Please see question # 6 for the submission of English test scores)March 16, 2025Lebanese Ministry of Education - Equivalence Committee(Required from all Lebanese and non-Lebanese accepted applicants, except those who graduated from AUB or the Lebanese University)Upon AcceptanceFor Fall 2025-26 On-campus Graduate Programs​Online graduate applicationMarch 13, 2025Recommendation letters(Please see question # 8 for the submission of recommendation letters)March 13, 2025​Official transcript(Please see question # 5 for more information about the transcript requirement)March 27, 2025Official GRE General exam scores(Please see question # 7 for the submission of GRE General Exam official scores)April 11, 2025Official GMAT/GMAT Focus exam scores(Please see question # 7 for the submission of GMAT/GMAT Focus​ official scores)April 11, 2025​Readiness for University Study in English (RUSE)Institution code: 0902 – Undergraduate Organization(Please see question # 6 for the submission of English test scores)End of July 2025Lebanese Ministry of Education - Equivalence Committee(Required from all Lebanese and non-Lebanese accepted applicants, except those who graduated from AUB or the Lebanese University)End of July 2025​For Fall 2025-26 Online (except online MBA) Graduate Programs​Online graduate applicationAugust 13, 2025Recommendation letters(Please see question # 8 for the submission of recommendation letters)August 13, 2025Official transcript(Please see question # 5 for more information about the transcript requirement)August 22, 2025Official GRE General exam scores(Please see question # 7 for the submission of GRE General Exam official scores)August 22, 2025Official GMAT/GMAT Focus exam scores(Please see question # 7 for the submission of GMAT/GMAT Focus ​​official scores)August 22, 2025Readiness for University Study in English (RUSE)Institution code: 0902 – Undergraduate Organization(Please see question # 6 for the submission of English test scores)August 22, 2025Lebanese Ministry of Education - Equivalence Committee(Required from all Lebanese and non-Lebanese accepted applicants, except those who graduated from AUB or the Lebanese University)August 22, 2025​"
+    },
+    {
+        "question": "3. Decision Notification: When will the application decisions be out?",
+        "answer": "Please check the tableavailable in question # 1.For more information about your application decision, please contact the Admissions office atgrad-admissions@aub.edu.lbor\n 961-1-374374 ext. 3505. The admission decision (including rejected \napplications) will be communicated  via email. If accepted, the email \nmessage will include a link in order to confirm your enrollment within \nthree weeks of the decision notification date.​"
+    },
+    {
+        "question": "4. Programs: What are the graduate programs offered at AUB and for how many programs can I apply?",
+        "answer": "Please visit thislinkto check the list of all graduate programs at AUB.​For detailed information regarding admission to a particular program, please contact thedepartment ​and/or check theAUB Graduate C​​atalog.​​​​​Applicants can apply to three master’s programs per application.Applicants can apply to three PhD programs per application.Applicants can apply t​o three Graduate Diploma programs per application.For MBA, and engineering management programs, applicants cannot apply to the online and on-campus versions of the same program for the same term.The programs below arenotoffered forSpring 2024-25:​Offered for Fall terms only​​​​MA in AnthropologyMA in Art History and Curating ​​MA in Clinical Psychology ​MA in Human Re​source Management​MA in Media Studies​MA in Public Policy and International Affairs​MS in Biomedical SciencesMS in Business Analytics ​MS in EpidemiologyMS in FinanceMS in Nursing (except for ​​Nursing Administration and Management (​​blended))​MS in Nutrition and DieteticsMS in OrthodonticsMS in Public Health NutritionMS​ in Scholars in HeAlth Research ProgramPhD in Arab and Middle Eastern HistoryPhD in Biomedical SciencesPhD in Cell and Molecular BiologyPhD in EpidemiologyPhD in Nursing Science ​Online Diploma in SHARP​FrozenMA in English LanguageMA in Financial EconomicsMA in General PsychologyMA in Public AdministrationMME in Applied Energy ​MS in Construction EngineeringMS in GeologyMS Population HealthOnline Diploma in Green Technologies​​"
+    },
+    {
+        "question": "5.  Education Background:  What is the meaning of a “Transcript”? When is the deadline for submitting it​?",
+        "answer": "​A transcript is a printed document which shows \nthe applicant’s academic records and it includes the courses taken at a \ngiven educational institution and their earned grades. It should include the applicant's name as well as theinstitutionname.Applicants  will not be able to submit their application without uploading at \nleast theunofficial/official copyin the online application under the \"Education Background\" section.In addition to the unofficial/official copy included in the online graduate application, all applicants(except for AUB students) should submit theirofficialtranscript to the Admissions Office ​as the deadlines indicated in question # 2 by:post mail or by hand in a sealed \nenvelope. The postal address of the AUB Admissions Office is:American University of BeirutOffice of AdmissionsCollege HallPO Box 11-236 Riad ElsolhBeirut, Lebanon, 1107-2020​or by email sent straight from the university to grad-admissions@aub.edu.lb email address. Official transcripts that are sent via email by the applicants are not accepted."
+    },
+    {
+        "question": "6. Test Requirements: Any English test scores are required in order to apply?",
+        "answer": "Applicants to the graduate program, other than AUB current students, aulmni and graduates of colleges or universities recognizedandlocated in North America, Great Britain, Australia, and New Zealand, must meet the Readiness for University Study in English (RUSE).Acceptable English exams consist of either (clickable exams options are available below):​TOEFLorTOEFLIBT Special Home EditionorIELTS(Academic) orAUB-EN(formerly named AUB EEE) orDUOLINGO English Test (DET)orGRE(Verbal part) orGMAT/GMAT Focus(Verbal part)Full details of accepted exams, score​s, validity dates and exam details (format, dates, location, registration requirements, costs, etc.) are availablehe​re.Applicants should use the AUB's ETS school code 0902 to ensure official submission of test scores to the AUB Admissions Office. If official scores are available as hard copy, they need to be sent to the AUB Admissions Office by hand or by mail to the below address:American University of BeirutOffice of AdmissionsCollege HallPO Box 11-236 Riad El SolhBeirut, Lebanon, 1107-2020​If accepted to the AUB Graduate Studies program, applicants will not be able to join the program unless the official scores of the Readiness for University Study in English (RUSE) are received by the AUB Admissions Office by the deadlines indicated in question # 2.Applicants with lower\nRUSE test scores may be admitted but will need to take English language courses\nduring their graduate programs. New test scores will not be accepted after\nregistering for the English course.For more information, clickhere​."
+    },
+    {
+        "question": "7. Test Scores: Other than the English test scores, are any additional standardized exam scores required?",
+        "answer": "ForSpring2024-25On-ca​mpus & OnlinePrograms​​GRE General Test(Please see question # 2 for the submission deadline of GRE General Test official scores)- Not required for any Master's degree program- Not required for any PhD degree programGMAT/GMAT Focus(Please see question # 2 for the submission deadline of GMAT/G MAT Focus official scores)- Required for theon campus and online MBA programsat the Olayan School of Business.Please note that applicants for theon campus and online MBA programsmay submit their admission applications without providing the required GMAT/GMAT Focus scores. However, they need to submit the official valid scores (no older than 5 years at the time the application is submitted) not later than one month after the application deadline.ForFall2025-26On-campus​ & OnlinePrograms​GRE General Test(Please see question # 2 for the submission deadline of GRE General Test official scores)- Not required for any Master's degree program- Required for:PhD in Cell and Molecular BiologyPhD in EpidemiologyPhD in Nursing ScienceIn this case, applicants are required to incorporate their GRE test info and un/official scores in the \"Test Scores\" section to be able to submit their application.GMAT/GMAT Focus(Please see question # 2 for the submission deadline of GMAT/G MAT Focus official scores)- Required for theon campus and online MBA programsat the Olayan School of Business.Please note that applicants for theon campus and online MBA programsmay submit their admission applications without providing the required GMAT/GMAT Focus scores. However, they need to submit the official valid scores (no older than 5 years at the time the application is submitted) not later than one month after the application deadline.​"
+    },
+    {
+        "question": "8. Recommendation Letters: How many recommendation letters are required and how can I submit them?",
+        "answer": "​All applicants to AUB graduate programs(including AUB alumni)​ are required to fill the recommendation letters section in the online graduate application.- For master’s degree applications, two recommendation letters are required per program.- For PhD degree applications, three recommendation letters are required per program.- For graduate diploma degree applications, two recommendation letters are required per program.​Recommendation letters can be presented from previous tutors or employers who are familiar with the applicant's past and current academic and professional pursuits. Recommendation letters that are submitted by family members, friends or neighbours are not acceptable. Applicant may wish to suggest the same recommender(s) for more than one program. It's the applicant's responsibility to follow up with the recommender(s) for submitting the recommendation letter preferably by the deadline indicated in question # 2.​Recommendation letters may be submitted either online or by hand to the Admissions Office at AUB. After the applicant enters the recommender's name and email addresses, the recommender(s) will receive an email with all instructions needed to submit the letter(s).A notification email is sent to the applicant as soon as a recommendation letter is submitted. Applicant have the option to remind her/his recommender(s) to submit the requested letter via the applicant portal.​If the recommendation letters are available as hard copy, they cannot be uploaded to the online application \nby the applicant. In this case, the applicant needs to enter the \nrecommenders’ contact details online before delivering the letters by postal \nmail or by hand to the AUB Admissions Office. Recommendation letters submitted by the applicant via email are not accepted.The postal address of the AUB Admissions Office is:American University of BeirutOffice of AdmissionsCollege HallPO Box 11-236 Riad El SolhBeirut, Lebanon, 1107-2020​"
+    },
+    {
+        "question": "9. Financial Opportunities: What is the tution at AUB? Any available scholarships?",
+        "answer": "AUB Tuition FeesPlease clickherefor summary information about AUB graduate studies tuition fees depending on the faculty of choice. For more information, please contact the AUB Comptroller's Office:comptrlr@aub. edu.lbAUB  ScholarshipsThe following scholarships options are offered:​​​Spring 2024-2025​​ForOn-campus Master's Programs​​Graduate Fellowship and Assistantship Program (GFAP)Financial Aid Grants (FAID)Lebanese Security Officers (LSO)LASeR-AUB Scholarship​​​For Online Master's Programs​There are program-specific scholarships available at this time for online master's programs. Information on such opportunities can be obtained exclusively from the program administrators for the online programs.For Online MBA program, please contactmba@aub.edu.lbFor Online Enginering Management program, please contact Dr. Bacel Madah atbm05@aub.edu.lbFor Online Computing in Education program, please contact Dr. Rima Karami Akkary atra10@aub.edu.lbFor Online Nursing Administration and Management (blended) program, please contact Ms. Mira Abdallah atma287@aub.edu.lb​ForPhD programs​​PhD Fellowships​Fall 2025-2026​​ForOn-campus Master's Programs​​Graduate Fellowship and Assistantship Program (GFAP)Financial Aid Grants (FAID)Lebanese Security Officers (LSO)LASeR-AUB Scholarship​​​Shireen Abu Akleh ScholarshipMEPI - Tomorrow's Leaders Graduate Program ​​​​Scholarship​​​For Online Master's Programs​There are program-specific scholarships available at this time for online master's programs. Information on such opportunities can be obtained exclusively from the program administrators for the online programs.For Online MBA program, please contactmba@aub.edu.lbFor Online Enginering Management program, please contact Dr. Bacel Madah atbm05@aub.edu.lbFor Online Computing in Education program, please contact Dr. Rima Karami Akkary atra10@aub.edu.lbFor Online Nursing Administration and Management (blended) program, please contact Ms. Mira Abdallah atma287@aub.edu.lb​ForPhD programs​​PhD Fellowships​Applicants may benefit from multiple scholarships simultaneously:Graduate Fellowship and Assistantship Program (GFAP) can be combined with Financial Aid (FAID)Lebanese Security Officers (LSO) scholarship can be combined with Financial Aid (FAID)AUB LASeR Agreement cannot be combined with any other funding opportunityFor detailed information about eligibility (Ex., country, programs, age, selection criteria), required documents, deadlines, coverage, etc., please check \"financial opportunities\" section in theOnline Graduate Application. ​"
+    },
+    {
+        "question": "10. Program Requirements: What is the meaning of a “Statement of Purpose”?",
+        "answer": "A statement of purpose (~400-500 words) is required for each \nprogram and it indicates the purpose for pursuing graduate study in that \nparticular field at AUB, and specifies the applicant’s research \ninterests and/or practical experience in the field.​"
+    },
+    {
+        "question": "11. Submission: How do I submit my application?",
+        "answer": "A graduate application is considered complete when it includes the completed application form sections as well as the application fee.The application fee can be paid using a credit card or paid in person at the AUB Cashier's Office.If the applicant chooses to pay online and is having issues being redirected to the payment gateway, s/he is advised to try a different browser (specifically Chrome or Firefox).If the applicant chooses to pay at the cashier, s/he must select “Pay at Cashier” option in the submission section and pick up the payment slip to the Cashier’s Office at AUB.Cashier’s Office location and opening hours:College Hall, ground floor- ​Monday to Friday, 8:00 am - 3:00 pm (summer working hours)​- Monday to Friday, 8:00 am - 5:00 pm​ (regular working hours)​"
+    },
+    {
+        "question": "12. After Being Accepted: Can I postpone my acceptance to another term?",
+        "answer": "​Graduate applicants who are offered admission for a term and who do not register\nare eligible for admission the following term pending availability of places.A petition should be submitted to the Office of Admissions by:​mid-December ​for those accepted for fall and wish to enroll in springend of July for those accepted for spring and wish to enroll in fall.​​For more information, please contact the Admissions Office atgrad-admissions@aub.edu.lbor 961-1-374374 ext. 3505."
+    },
+    {
+        "question": "13. I would like to know more about the program I have been accepted to (the duration, attendance, required courses, etc.).",
+        "answer": "Applicants are advised to contact the department that offers the program by visiting the relevant website available onA-Z index of sites​​. Applicants may find the needed contact details in the \"Contact us\" webpage that is available in the departmental website."
+    },
+    {
+        "question": "14. I have been accepted to AUB graduate studies and I would like to know about the tuition fees.",
+        "answer": "​Please clickhe​r​efor summary information about AUB graduate studies tuition fees depending on the faculty of choice. For more info, please contact Ms. Maha Hamad atmh38@aub.edu.lb.​​"
+    },
+    {
+        "question": "15. Where and when do I have to submit the Readiness for University Study in English (RUSE) test? And what test can I do to meet this requirement?",
+        "answer": "​​Please see questions # 2 & 6 available in thisFreque​ntly Asked Questions (​FAQ)​.​"
+    },
+    {
+        "question": "16. Should the copy of my degree by certified by my former university or the Ministry of Education and Higher Education?",
+        "answer": "​​The certified copy of degree is required only from non-AUB students/alumni. When required, it must be certified by the former university. As for the equivalency, it must be certified by the Ministry of Education and Higher Education.​"
+    },
+    {
+        "question": "17. What should I provide from the Ministry of Education and Higher Education?",
+        "answer": "The Ministry of Education and Higher Education (MEHE) is requiring every student to have a complete file at the university as perDecreeNo.33.Every accepted student who wishes to enroll will need to submit the following documents:Official Complete TranscriptCertified copy of degree from his UniversityDegree equivalency from the Ministry of Education and Higher Education MEHE."
+    },
+    {
+        "question": "18. I have been accepted to a master’s degree with 100% Graduate Fellowship and Assistantship Program (GFAP). In this case, I am not expected to confirm my enrollment without paying any fees, right?",
+        "answer": "​​All accepted (including those on GFAP) applicants need to pay the confirmation fee and then confirm their enrollment to reserve their spot. The confirmation fee is a one-time fee, which covers miscellaneous fees and which are added to an applicant’s bill after registration. Graduate Fellowship and Assistanchip Program (GFAP) does not cover the miscellaneous fees.​"
+    },
+    {
+        "question": "19. Can I defer my acceptance to another semester?",
+        "answer": "​Yes, defering acceptance is possible. For more info, please see question # 12 available in thisFrequently Asked Questions (FAQ)​."
+    },
+    {
+        "question": "20. I would like to know why my application has been rejected.",
+        "answer": "​Applicants are advised to contact the relevant faculty officer whose name and contact details are availablehere​.​"
+    },
+    {
+        "question": "21. What procedure should I follow applying for a student visa?",
+        "answer": "​Applicants are advised to check with the Office of International Programs by contacting them atoip@aub.edu.lb​"
+    },
+    {
+        "question": "22. How can I pay my enrollement confirmation?",
+        "answer": "Applicants may either pay at the bank or at the AUB cashier office. For more details, applicants are advised to check the acceptance email sent by AUB Admissions office."
+    },
+    {
+        "question": "23. I am trying to activate my AUBSIS as first time user, I am entering my ID and the pin, however, it is not working what should I do?",
+        "answer": "Applicants are advised to send an email tograd-admissions@aub.edu.lb​​and provide their application code number in the subject​.​​"
+    },
+    {
+        "question": "24. I logged in to AUBSIS to confirm my enrollment; however, I was unable to find the \"Payment Processing\" section, nor the \"Confirm Major\" option.",
+        "answer": "Applicants are advised to send an email tograd-admissions@aub.edu.lb​​and provide their application code number in the subject​.​​​"
+    },
+    {
+        "question": "25. I paid my enrollment confirmation fee through AUB cashier, however, on the online portal it still shows an unpaid.",
+        "answer": "Applicants are advised to follow the instructions below:Login to youradmission application​​using your AUB ID and password. Please DO NOT CLICK ON \"First timeUser\"From the application menu, navigate to “Processed Applications” section.Click on the application to view an “Application Summary”.Carefully select your preferred major by choosing the program on the “Application Summary”.Read the declaration and indicate your acceptance of these terms by clicking on \"Confirm Major\" button.​"
+    },
+    {
+        "question": "I am a new student, where can I find information on new student orientation?",
+        "answer": "​You can find all needed information about New\nStudent Orientation at thislink​."
+    },
+    {
+        "question": "Where can I find the AUB Academic Calendar?",
+        "answer": "​On\nthe Office of the Registrarwebpage​, and you can view important dates on AUB\nmain page and the Office of the Registrar Webpage.​​"
+    },
+    {
+        "question": "How do I register for courses?",
+        "answer": "You can find all needed information about Course Registration by watching thisvideo.For questions on course selection, please contact your advisor."
+    },
+    {
+        "question": "I need to know more about a course before registering in it, where can I find this information?",
+        "answer": "​Please\nvisit thecatalogue​or course schedule.​​"
+    },
+    {
+        "question": "Can I receive my degree as soon as I finish my final exams of my graduation term?",
+        "answer": "​Graduation is confirmed and degrees are officially awarded only after the University Senate votes to award the degrees.Degrees will be available within a minimum of two weeks after the Senate vote of Fall, Spring, and Summer terms. Degree distribution dates of every term are circulated by email in due time.If you require proof of your completion of degree requirements before then, you may order an \"expected degree awarded\" certificate from theonline document ordering platform​."
+    },
+    {
+        "question": "Can I request my degree to be mailed to me?",
+        "answer": "​We do not arrange for the mailing of student degrees.You canauthorize someone​to pick it up on your behalf and this person can mail it to you at your convenience. You can as well authorize a mailing service to pick up your degree on your behalf and mail it to you."
+    },
+    {
+        "question": "Can I authorize a family member or friend to pick up my degree or documents?",
+        "answer": "​You can authorize a third party to pick up your documents from the Office of the Registrar. He/she must present to our frontline staff thisform​completed and signed by you together with his/her ID."
+    },
+    {
+        "question": "How do I order a transcript, certificate, authenticated copy of my degree?",
+        "answer": "​You can order your documents by following thislink​."
+    },
+    {
+        "question": "Can I order an authenticated copy of my degree before picking up my actual degree?",
+        "answer": "​No. You have to pick up your original degree and provide a clearly scanned copy of it to be authenticated.​"
+    },
+    {
+        "question": "How long does it take to have the documents I ordered ready for pick up or sent as PDF?",
+        "answer": "​You must normally allow at least seven (7) working days from the day after the day you submit your request for the preparation of your documents. You may choose the expedited option, in which case your document will be prepared normally within three (3) working days from the day after you submit your request (additional charges apply). Please remember that holidays and weekends are not working days.​"
+    },
+    {
+        "question": "Can I send a soft copy of my documents to another university?",
+        "answer": "​Yes, Documents requested will be delivered to the address indicated or to you from the following email address:Document Edelivery<docs4pdf@aub.edu.lb>. If the documents are official, these will be secured and certified by the Office of the Registrar prior to sending.​"
+    },
+    {
+        "question": "Can I pay for my documents order and pick them up on same day?",
+        "answer": "​No. Document preparation requires production and checking time. Furthermore, we do not offer COD (cash on delivery) service. Requests must be fully paid prior to processing. If you select to pay in cash, please make sure to settle your payment within seven days from receiving the invoice by email so that your order is not cancelled.A kind reminder that when you select to pay in cash, the document processing time starts the day after your payment is settled and not at the time when you ordered the documents.If you wish to expedite your service, please select expedited service and pay for it accordingly.​"
+    },
+    {
+        "question": "I don’t want the documents I ordered anymore, can I request a refund?",
+        "answer": "​We have a no refund policy and cannot cancel an\nalready existing and paid request.​"
+    },
+    {
+        "question": "Can I receive my degree as soon as I finish my final exams of my graduation term?",
+        "answer": "​Graduation is confirmed and degrees are officially awarded only after the University Senate votes to award the degrees.Degrees will be available within a minimum of two weeks after the Senate vote of Fall, Spring, and Summer terms. Degree distribution dates of every term are circulated by email in due time.If you require proof of your completion of degree requirements before then, you may order an \"expected degree awarded\" certificate from theonline document ordering platform. ​"
+    },
+    {
+        "question": "Can I request my degree to be mailed to me?",
+        "answer": "​We do not arrange for the mailing of student degrees.You can authorize someone to pick it up on your behalf and this person can mail it to you at your convenience. You can as well authorize a mailing service to pick up your degree on your behalf and mail it to you. ​"
+    },
+    {
+        "question": "I went to MEHE to attest my degree, they said my name is not showing on their portal.",
+        "answer": "​Allow twenty-four (24) working hours after you pick up your documents before going to MEHE to attest your degree.​"
+    },
+    {
+        "question": "I have a financial hold, what can I do to resolve it?",
+        "answer": "​For all financial inquiries contactcompt_sas@aub.edu.lb.​"
+    },
+    {
+        "question": "How can I view my statement of fees and pay online for my registered courses?",
+        "answer": "​To view your web statement, you must login to AUBsis using your AUBnet credentials. Click on the4 square menu on the upper left then click on student services and financial aid then student records then web statement of fees.Once you are able to view your statement of fees, there will be instructions on it on how to pay. You will be routed to a payment gateway to settle your fees online unless you decide to make a wire transfer, for which instructions are included on the statement of fees. For more information, contact the Comptroller's Office atcompt_sas@aub.edu.lb."
+    },
+    {
+        "question": "I am unable to log in to AUBsis.",
+        "answer": "​Most of the time this is because you are not using your AUBnet name (e.g., abc12) and email password. If you try this and it still doesn't work, contact the IT help desk atit.helpdesk@aub.edu.lb.​"
+    },
+    {
+        "question": "Who can assist me with housing issues?",
+        "answer": "​Contact the Office of Student Affairs atsoa@aub.edu.lb.​"
+    },
+    {
+        "question": "I lost my ID, what do I do?",
+        "answer": "Contact the ID Center and Protection Office (ext. 2400) and follow thislink​for more information."
+    },
+    {
+        "question": "What is ICE and am I obliged to complete it?",
+        "answer": "​ICE is the Instructor Course Evaluation. You must complete it as part of providing feedback to AUB administration on the performance of the course instructors and the quality of your class experience. Usually you receive the initial email to complete ICE along with several reminders. If you miss one or more evaluations you will not be able to view your final grades on AUB sis until after two weeks from your last final exam.​"
+    },
+    {
+        "question": "Why can I not see my grades on AUB sis?",
+        "answer": "​If you are unable to view your grades on AUB sis, this is most likely because you failed to complete one or more Instructor Course Evaluation (ICE) forms by the completion deadline. You will not be able to access your course grades online until two weeks after the final examination period has ended.​"
+    },
+    {
+        "question": "Do you round up GPA?",
+        "answer": "​GPA is not rounded up or down. Rather, it is truncated at the second decimal place.​"
+    },
+    {
+        "question": "I repeated a course to get a higher grade. Which grade will count?",
+        "answer": "​When you repeat a course, all repeat attempts will show on your transcript. All grades stay on your transcript and are calculated in your respective term GPA. The lower grade will have an “A\" next to it, which means it is excluded from your cumulative GPA. The higher grade will have an “I\" next to it, which indicates that it is included in your cumulative GPA.For the purposes of academic standing and distinction, the grades for all attempts are included in the calculation of GPA.You can access your web transcript through AUBsis, which has the course correctly configured.​"
+    },
+    {
+        "question": "How is my evaluation GPA (EGPA) calculated for academic standing?",
+        "answer": "Students are evaluated when the minimum number of credits at the end of second regular term is twenty-four (24) GPA hours. and twelve (12) GPA hours in each subsequent fall or spring term.GPA hours earned during a summer or winter term are counted towards the term average of the next regular term. If the number of GPA hours taken in any regular term is less than twelve (12) GPA hours, it will be counted toward the term average of the next regular term.Credit for incomplete courses will be included in the term in which the incomplete courses were taken. The evaluation for that term will be carried out as soon as the grades for the incomplete courses have been finalized."
+    },
+    {
+        "question": "How is the GPA calculated for distinction?",
+        "answer": "For purposes of graduation with distinction or high distinction, when a student repeats a course, all the attempted courses that fall within the last 60 or more GPA hours are used in the calculation of the honors cumulative GPA (HCGPA). For transfer students, if the number of credits completed at AUB is less than 60, then the student will not be considered for graduation with distinction."
+    },
+    {
+        "question": "My final exam overlaps with traveling date.",
+        "answer": "​As per University rules and regulations, students are required to be on campus until the last day of final exams. Your Faculty may exceptionally accommodate your request, but there is no obligation for them to do so.​"
+    },
+    {
+        "question": "How will I receive notices about campus updates?",
+        "answer": "​​​Email is the primary form of communication, so monitor your AUB email on a regular basis. In addition, we recommend that you update your personal information as it is important for us to have a current home address, telephone numbers, and emergency contacts.​​​​"
+    },
+    {
+        "question": "When does the adjusted exchange rate come into effect?",
+        "answer": "​As of midnight on December 31, 2020, the adjusted exchange rate for all USD denominated payments to AUB, including tuition payments, will be 3,900 LBP/USD.​"
+    },
+    {
+        "question": "NEW!How can I settle my tuition fees for Spring 2020-21?",
+        "answer": "​For your safety and that of others, we strongly recommend that you settle your tuition payments at one of the accepted banks listed below, as early as you can before the February 19, 2021 deadline, taking into consideration that banks will open with limited capacity during this period.List of Accepted Banks (All Branches):BANKMEDBANK AUDIBANK BYBLOSBLOM BANKFRANSABANKARAB BANKSGBL BANKBANK MISR LEBANON (BML)Payments at these banks can be made in CASH, by CERTIFIED CHECKS or CERTIFIED BANKER'S CHECKS.Transfers are also accepted at CITI bankAccount : American University of BeirutIBAN LB94011500000000000600224166 for USDIBAN LB69011500000000000600224034 for LBPIBAN LB22011500000000000600224395 for International transfers onlySWIFT Code: CITILBBEThe Cashier at AUB will also be available in College Hall on working days, with limited capacity, starting on Monday, February 15, 2021 (M-F, 9-4). If you need to resolve an issue related to your statement of fees, please contact the Students Section by calling extensions 2473 or 2980, or by emailingcompt_sas@aub.edu.lb."
+    },
+    {
+        "question": "Does the adjusted exchange rate apply to all payments made to the university?",
+        "answer": "Yes. All USD denominated charges will need to be settled at the 3,900 LBP/USD rate.​"
+    },
+    {
+        "question": "I owe the university from previous terms. What exchange rate will I use to make these back payments?",
+        "answer": "​Any unpaid amounts carried over into January 2021 would need to be settled at the adjusted prevailing rate of 3,900 LBP/USD.  ​"
+    },
+    {
+        "question": "Can I pay my spring tuition before December 31, 2020 at midnight and take advantage of the 1,515 LBP/USD rate?",
+        "answer": "No. Students may not prepay spring tuition prior to AUB generating term tuition and fees.​"
+    },
+    {
+        "question": "Is there an advantage for me to settle my bill in US ‘fresh’ dollars?",
+        "answer": "​Yes. We are suggesting that every family who can settle the tuition and fees in US 'fresh' dollars do so as a sign of solidarity with those who are suffering the most from Lebanon's multiple crises. The university is developing an incentive program for individual self-payers or their families who settle their tuition and fees in US 'fresh' dollars. For more information, please contactregist@aub.edu.lb."
+    },
+    {
+        "question": "How do I apply for financial aid or for additional financial aid in spring 2021?",
+        "answer": "Whether you:Are receiving a Need Based Grant (Financial Aid) and requesting to benefit from additional financial aidHave applied previously for Need Based Grant (Financial Aid) but was not granted one, orHave never applied for Need Based Grant (Financial Aid),Click on the following link, which will direct you to the appropriate method for requesting aid:http://survey.aub.edu.lb/index.php/465821?lang=en ​"
+    },
+    {
+        "question": "I am currently benefiting from financial aid. Will additional documents be required for my application for additional financial aid?",
+        "answer": "The Office of Admissions and Financial Aid will determine if they require further information or documents from you. The Office may also conduct a reexamination of your previously submitted documents and require updates or additional documentation.​"
+    },
+    {
+        "question": "Will the additional financial aid be proportionate to the increase in tuition?",
+        "answer": "AUB's intention is to distribute financial aid funds in as fair a manner as possible. The Financial Aid Committee will review each financial aid application, and deserving students with proven financial need will be awarded a percentage of additional aid.​"
+    },
+    {
+        "question": "Are graduate students eligible to receive financial aid?",
+        "answer": "Yes, graduate students not benefiting or partially benefiting from graduate assistantships are eligible to receive financial aid based on proven need. Click on the following link to apply:http://survey.aub.edu.lb/index.php/465821?lang=en​"
+    },
+    {
+        "question": "I plan on graduating in spring 2021. Will I be given priority for additional financial aid?",
+        "answer": "We would like to help all our potential graduates. At the same time, additional financial aid in the spring term is meant to support needy students, and our intention is to disburse financial aid funds in as fair a manner as possible.​"
+    },
+    {
+        "question": "Where can I find more information about financial aid and scholarships?",
+        "answer": "Detailed information can be found at this link:https://www.aub.edu.lb/faid/Pages/NeedBasedFinancialAid.aspx. If you need further details, please contactfaid@aub.edu.lb.  ​"
+    },
+    {
+        "question": "When does the spring semester start?",
+        "answer": "The spring term 2021 will begin, as scheduled, on Thursday, January 21, 2021."
+    },
+    {
+        "question": "When does the winter session start?",
+        "answer": "​The winter session 2021 will begin, as scheduled, on Monday,\nDecember 21, 2020.​​"
+    },
+    {
+        "question": "How are courses being delivered?",
+        "answer": "The vast majority of courses will be delivered fully online, at least until the end of February 2021​.​"
+    },
+    {
+        "question": "Can I access course content and materials on Moodle regardless of the mode of delivery?",
+        "answer": "​All course materials and lectures should be accessible to students remotely and asynchronously, including lectures that are recorded in real-time.​ If you face problems, please check with your course instructor."
+    },
+    {
+        "question": "I am a student who cannot come to campus to attend in-person classes. What should I do?",
+        "answer": "Students who are unable or not prepared to come to campus will be provided, to the extent possible, with an enriching and rigorous curriculum delivered remotely. ​Please contact your course instructor to learn about accommodation provided to students who are not present on campus."
+    },
+    {
+        "question": "What is the university doing about study abroad and exchange programs for spring 2021?",
+        "answer": "​Study abroad programs for the spring 2021 term are approved as long as courses at the host university are being offered in person and on campus.Exchange programs for the spring 2021 term are approved whether they are virtual or in person.if you need further details, please visit theOffice of International Programs webpage​."
+    },
+    {
+        "question": "NEW!Will courses offered in hybrid or blended format at a university abroad be approved for credit transfer this summer 2021?",
+        "answer": "​Study abroad programs for the summer 2021 term are approved as long as courses at the host university are being offered in person or in hybrid/blended format. Courses given fully online will not be approved.For any questions, please email aubabroad@aub.edu.lb​"
+    },
+    {
+        "question": "How do letter grades relate to numeric ones?",
+        "answer": "Since May 2019, the University has adopted the following table for converting a numeric score into a letter grade for a class. This applies to undergraduate as well as graduate classes. For more information, visit the Office of the Registrarwebsite​.​​Starting with Numeric Course Grade /100Corresponding Course Letter Grade< 60F60D61–62D+63–65C–66–68C69–71C+72–74B–75–78B79–82B+83–86A–87–92A93–100A+"
+    },
+    {
+        "question": "What are my letter grades worth?",
+        "answer": "​Each letter grade is worth a specific number of quality points.Course Letter GradeQuality Points​A+4.3A4.0A–3.7B+3.3B3.0B–2.7C+2.3C2.0C–1.7D+1.3D1.0F0.0​"
+    },
+    {
+        "question": "How are my letter grades converted into a GPA?",
+        "answer": "GPAs calculated using letter grades are actuallyweightedGPAs. This means that the letter grade you receive for a course is weighted by the course'scredit ​​value. For example, if you receive a B+ in a course that is a three credit-hour course, your B+ is equivalent to a quality point value of 3.3, and this 3.3 is multiplied by three credit hours for a total of 9.9. If you take a four credit-hour course at the same time, and you earn an A-, this A- is equivalent to 3.7 quality points, and when multiplied by four credit hours results in a total of 14.8. For simplicity's sake, let's say that these were the only courses you took in this particular term, so your GPA would thus be 9.9 + 14.8 / 7 or 3.53. Had your A- course been a three-credit course, the calculation would have been 9.9 + 11.1 / 6 or 3.50. The weighting of the course for which you earned an A- enhances your GPA in the first example. At AUB, GPAs are capped at 4.0.Calculation of GPA in Tabular form:GradeQuality PointsCreditsTotal Quality PointsGPA​Course 1B+3.339.9Course 2A-3.7414.87 (a)24.7 (b)3.53 (b/a)​"
+    },
+    {
+        "question": "How will my GPA calculated from my letter grades figure into my eligibility to meet various requirements, such as minors, transfers, standing—including probation, etc.?",
+        "answer": "​The University has adopted the following table for use when looking at averages necessary to meet “additional rules and regulations\" of the Faculties.Numeric CutoffCorresponding GPA Average Cutoff651.7671.9682.0692.1702.2752.7772.9803.2853.7904.0These represent cutoffs for averages and are already represented in the transitional calendar information that you may find on the Office of the Registrar website,here(for undergraduate students) andhere(for graduate students).​"
+    },
+    {
+        "question": "I have concerns about data privacy if the quizzes and exams will be proctored remotely.",
+        "answer": "AUB takes the issue of data privacy and confidentiality very seriously, as indicated in itsPrivacy Statement​. At the same time, we are all working towards ensuring the continuation of instruction and learning, while preserving AUB's high academic standards and integrity.Remote proctoring of an online exam can be done either via Respondus or a videoconferencing platform, e.g., Cisco Webex, Microsoft Teams, Zoom, etc. Your instructor may use a video conferencing platform to proctor an online oral or written exam, but without recording the session. This approach was deemed not to pose a privacy risk higher than that of conducting an online class session using a videoconferencing platform, or that of proctoring an in-person exam.Exams using Respondus are proctored through the combined use of the Respondus LockDown Browser and Respondus Monitor. This automated proctoring produces a recording of each exam session that can then be analyzed after the exam has ended. For technical help on installing Repondus, please contact the Office of Information Technology helpdesk by sending an email to it.helpdesk@aub.edu.lb. The use of Respondus complies with the provisions set in AUB'sPrivacy Statement​​ to ensure the confidentiality and privacy of your personal data.​"
+    },
+    {
+        "question": "I'm setting my computer for remote learning. Who can help me?",
+        "answer": "​Fo​r support related to course content and materials, contact your instructor. For technical questions, reach out to IT support by sending an email to it.helpdesk@aub.edu.lb​​."
+    },
+    {
+        "question": "What student activities will be available?",
+        "answer": "​To view the student activities, please check thislink​.For CHSC guidelines during COVID-19, please check thislink​.  ​​"
+    },
+    {
+        "question": "Will the Counseling Center operate during the spring term?",
+        "answer": "The Counseling Center remains committed to your safety and well-being. ​For more information, please visit thecounseling center page​on the Office of Student Affairs website."
+    },
+    {
+        "question": "Will the Charles Hostler Student Center operate during the spring term?",
+        "answer": "​To view Charles Hoslter Student Center operating hoursclick here​.​​For more information or reservations, please call extension 3208. For CHSC guidelines during COVID-19, please check thislink​.  ​​"
+    },
+    {
+        "question": "Can I defend my master’s or PhD thesis using an online video conferencing platform?",
+        "answer": "You can defend your master's or Ph.D. thesis via online video conferencing. As usual, the thesis defense will be open to the public and announced ahead of time. It is required that it should be announced at least two weeks in advance. ​"
+    },
+    {
+        "question": "How do I secure the needed signatures after the defense?",
+        "answer": "​The advisor can replace the required signatures on the thesis defense form by email confirmations from the thesis committee members."
+    },
+    {
+        "question": "What platforms are recommended to organize an online thesis defense?",
+        "answer": "​The university supports live video conferencing sessions via WebEx. The thesis advisor should configure the session in order to create an invitation link. More details on the configuration process are available at thislink​. For additional support, please contact IT Helpdesk at it.helpdesk@aub.edu.lb​​​."
+    },
+    {
+        "question": "When should graduate students (master’s and PhD) defend their thesis, and deposit it at the library to be able to graduate in fall 2020-21?",
+        "answer": "Master’s and PhD students who plan to graduate in fall 2020-21 mustdefend the thesis and deposit the thesis at the library​by January 28 and February 8, 2021, respectively."
+    },
+    {
+        "question": "Is there an extension for graduate students (master’s and PhD) who miss the fall 2020-21 deadlines for the thesis defense and deposit at the library?",
+        "answer": "​Master’s and PhD students who defend by February 22, 2021 and deposit the thesis at the library by February 29, 2021 do not need to register the thesis (course) in the spring term. They will however be regarded as spring term graduates and receive their degrees in (late) June 2021. In such cases, a Certificate of Degree Completion may be requested from the Office of the Registrar as long as all degree requirements have been met.​"
+    },
+    {
+        "question": "What can graduate students (master’s and PhD) do if they miss the fall 2020-21 and the extended February thesis deadlines?",
+        "answer": "​Master’s and PhD students who cannot meet the fall 2020-21 and the extended February deadlines must register the thesis (course) in the spring term and follow theterm’s thesis deadlines​(thesis defense by April 28, 2021 and thesis deposit at the library by May 10, 2021)."
     }
 ]
